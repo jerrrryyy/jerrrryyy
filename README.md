@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jerrrryyy
-- 👀 I’m interested in University 
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ELon
-- 📫 How to reach me space
+- 💞️ I’m looking to collaborate on java
+- 📫 How to reach me to space
 
 <!---
 jerrrryyy/jerrrryyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
