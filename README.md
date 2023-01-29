@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jerrrryyy
+- 👋 Hi, I’m @Madhav
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me to space
 
 <!---
-jerrrryyy/jerrrryyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Madhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
